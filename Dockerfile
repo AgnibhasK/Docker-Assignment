@@ -1,5 +1,7 @@
 FROM node:12
 
+MAINTAINER Agnibhas (agnibhas.chattopadhyay@knoldus.com)
+
 WORKDIR /usr/assign
 
 COPY package*.json ./
