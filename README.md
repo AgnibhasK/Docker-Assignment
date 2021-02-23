@@ -1,4 +1,4 @@
 # Docker-Assignment
 #Command to run:
 
-docker pull agnibhask/assign:latest
+docker run agnibhask/assign:latest
